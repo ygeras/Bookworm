@@ -9,5 +9,5 @@ The app utilizes Core Data and includes a star rating widget where the user can 
 
 ## Project Screen
 
-<img src="images/UnitConverter1.png" width="300">
+<img src="images/Bookworm1.png" width="300"> <img src="images/Bookworm2.png" width="300"> <img src="images/Bookworm3.png" width="300">
 
